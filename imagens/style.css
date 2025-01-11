@@ -6,16 +6,16 @@ body {
 }
 
 img {
-    margin-top: -221px;
+    margin-top: -279px;
     max-width: 877px;
-    margin-left: -415px;
+    margin-left: -120px;
 }
 
 h1 {
    text-align: right;
     position: relative;
     top: 195px;
-    left: -317px;
+    left: -293px;
     font-size: 44px;
     color: #E2781A;
     font-family: Arial, Helvetica, sans-serif; 
@@ -25,8 +25,8 @@ h1 {
 p {
     text-align: left;
     position: relative;
-    top: 201px;
-    left: -5px;
+    top: 147px;
+    left: 0px;
     font-size: 24px;
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
@@ -37,7 +37,7 @@ p {
 a {
     color: #000000;
     text-decoration: none;
-    top: -155px;
+    top: 380px;
     left: 856px;
     background-color: #E2781A;
     height: 58px;
@@ -48,6 +48,11 @@ a {
     border-radius: 57px;
 }
 
+a:hover {
+    background-color: #000000;
+    color: white;
+}
+
 p#a {
     position: relative;
     top: 14px;
@@ -55,3 +60,5 @@ p#a {
     white-space: nowrap;
     color: white;
 } 
+
+
